@@ -3,5 +3,5 @@ function greet(name = "guest") {
   console.log("Hello " + name);
 }
 
-greet();          // Hello guest
-greet("Krish");   // Hello Krish
+greet();          
+greet("Krish");   
