@@ -1,0 +1,29 @@
+.cart{
+  width:400px;
+  height: 400px;
+  background-color: darkmagenta;
+  color:white;
+  border: 5px solid blue;
+  border-radius: 10px;
+  padding: 25px;
+  margin: auto;
+  text-align: center;
+  
+}
+
+.Header{
+  height:200px;
+  width: auto;
+  background-color:#8036a3;
+  color: white;
+  text-align: center;
+  margin-bottom:1rem;
+}
+.Footer{
+  height:200px;
+  width: auto;
+  background-color:#8036a3;
+  color: white;
+  text-align: center;
+}
+
